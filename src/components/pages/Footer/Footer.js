@@ -72,11 +72,11 @@ function Footer() {
                     </div>
                     <small className="website-rights">TimeDesk © 2020</small>
                     <div className="social-icons">
-                        <link className="social-icon-link" to="/" target="_blank" aria-label="Facebook"><FaFacebook /></link>
-                        <link className="social-icon-link" to="/" target="_blank" aria-label="Instagram"><FaInstagram /></link>
-                        <link className="social-icon-link" to="/" target="_blank" aria-label="Youtube"><FaYoutube /></link>
-                        <link className="social-icon-link" to="/" target="_blank" aria-label="Twitter"><FaTwitter /></link>
-                        <link className="social-icon-link" to="/" target="_blank" aria-label="LinkedIn"><FaLinkedin /></link>
+                        <Link className="social-icon-link" to="/" target="_blank" aria-label="Facebook"><FaFacebook /></Link>
+                        <Link className="social-icon-link" to="/" target="_blank" aria-label="Instagram"><FaInstagram /></Link>
+                        <Link className="social-icon-link" to="/" target="_blank" aria-label="Youtube"><FaYoutube /></Link>
+                        <Link className="social-icon-link" to="/" target="_blank" aria-label="Twitter"><FaTwitter /></Link>
+                        <Link className="social-icon-link" to="/" target="_blank" aria-label="LinkedIn"><FaLinkedin /></Link>
                     </div>
                 </div>
             </section>
